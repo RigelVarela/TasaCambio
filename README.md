@@ -14,7 +14,7 @@ Esta herramienta facilita la toma de decisiones financieras rápidas al converti
 
 ## 🏥 Casos de Uso Prácticos
 
-Esta aplicación es ideal para comercios, profesionales independientes y gestión de presupuestos. Por ejemplo, facilita enormemente a los pacientes el cálculo rápido y transparente del equivalente en bolívares para el pago de pólizas y consultas de los **servicios de Integra**, garantizando que el usuario tenga el monto exacto según la tasa de su preferencia antes de realizar la transacción.
+Esta aplicación es ideal para comercios, profesionales independientes y gestión de presupuestos. Por ejemplo, facilita enormemente a los personas el cálculo rápido y transparente del equivalente en bolívares, garantizando que el usuario tenga el monto exacto según la tasa de su preferencia antes de realizar la transacción.
 
 ## 🛠️ Tecnologías Utilizadas
 
