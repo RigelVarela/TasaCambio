@@ -29,5 +29,5 @@ Si deseas correr este proyecto en tu entorno local:
 
 1. Clona el repositorio:
    ```bash
-   git clone [https://github.com/tu-usuario/calculadora-cambiaria.git](https://github.com/tu-usuario/calculadora-cambiaria.git)
-   cd calculadora-cambiaria
+   git clone [https://github.com/RigelVarela/TasaCambio.git](https://github.com/RigelVarela/TasaCambio.git)
+   cd TasaCambio
